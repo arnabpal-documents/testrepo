@@ -1,4 +1,4 @@
-"I would like to introduce new customer file."
+"I would like to introduce new customer file. This will keep information regarding Customer Details."
 -arnab-works
 
 "High appreciate the new customer file."
